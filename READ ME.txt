@@ -4,7 +4,7 @@ the description of this Project, this is a basic
 game that I coded in Java and using the
 free Eclipse I.E.D.
 If you'd like to see the source code from this
-project, that I have also included that along
+project, I have also included that along
 side the Snake.exe Application, so if you have
 any experience with Java, or even if you'd
 just like to take a look at it for fun, feel free
