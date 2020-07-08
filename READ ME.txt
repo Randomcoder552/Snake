@@ -1,0 +1,27 @@
+Hello! And thank You for taking the time to
+look at My Snake Game! As mentioned in
+the description of this Project, this is a basic
+game that I coded in Java and using the
+free Eclipse I.E.D.
+If you'd like to see the source code from this
+project, that I have also included that along
+side the Snake.exe Application, so if you have
+any experience with Java, or even if you'd
+just like to take a look at it for fun, feel free
+to peek at my undoubtly terribly written
+code.
+I would also like to mention that although
+all of the code relating to logic and actaully
+making the game work is mine, since I am
+such a novice yet, I do follow a basic tutorial
+series on Youtube that covers how to properly
+initilize Jframes and many other basic 
+components of a Game in Java. The channel
+that uploaded these videos can be found
+here if You'd like to check them out:
+https://www.youtube.com/channel/UCaM7SQvF5q9sz4NgL16PNRA
+
+With all of that out of the way, thank you
+again for taking the time to look at my 
+Project, and I hope you enjoy the game,
+even as basic as it is.
